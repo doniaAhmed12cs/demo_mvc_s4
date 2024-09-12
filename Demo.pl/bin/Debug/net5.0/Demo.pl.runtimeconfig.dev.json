@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\donia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\donia\\.nuget\\packages"
+    ]
+  }
+}

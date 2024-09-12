@@ -1,0 +1,5 @@
+C:\Users\donia\source\repos\Demo.Mvc.G01\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donia\source\repos\Demo.Mvc.G01\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\donia\source\repos\Demo.Mvc.G01\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\donia\source\repos\Demo.Mvc.G01\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\donia\source\repos\Demo.Mvc.G01\Demo.BLL\obj\Debug\net5.0\Demo.BLL.sourcelink.json

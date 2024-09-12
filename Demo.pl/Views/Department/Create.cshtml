@@ -1,0 +1,37 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create New Department</h1>
+<br />
+<form asp-action="Create">
+    <div>
+        <label class="col-form-label" asp-for="Code"></label>
+        <input class="form-control" asp-for="Code" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label class="col-form-label" asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label class="col-form-label" asp-for="DateOfCreation"></label>
+        <input class="form-control" asp-for="DateOfCreation" />
+
+    </div>
+    <input type="submit" value="Submit" class=" btn btn-primary" />|
+    <a asp-action="Index" class="btn btn-light"> BackToList</a>
+</form>
+@section ScriptValidation{
+<script src="f:\route\route c42\cycle42\05 mvc\g03\session 03\demo.mvc.group03\demo.pl\wwwroot\lib\jquery\dist\jquery.min.js"></script>
+<script src="f:\route\route c42\cycle42\05 mvc\g03\session 03\demo.mvc.group03\demo.pl\wwwroot\lib\jquery-validation\dist\additional-methods.min.js"></script>
+
+}
+
+
+
+
